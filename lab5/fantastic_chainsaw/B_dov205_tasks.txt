@@ -1,5 +1,5 @@
 How many files are there?
-$ ls -l | wc -l  # 20 files in local directory, including zip file
+$ ls -l | wc -l  # 17 files in local directory, including zip file
 
 How many .csv files? How many .py files?
 $ ls -l *.csv | wc -l # 10 .csv files in local directory
